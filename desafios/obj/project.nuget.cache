@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GMq7Ywaq3IcEwLo4PP6x5L6JFi1f6AvRSlbGhh/qudTLIl8PjR0e6EQtPOa9xsWepZprkBiwaoZODFZS4JSAhw==",
+  "success": true,
+  "projectFilePath": "C:\\www\\desafios-cshap\\desafios\\desafios.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ffern\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
